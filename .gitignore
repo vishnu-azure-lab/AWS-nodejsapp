@@ -1,3 +1,6 @@
 AWS-terraform-nodejs/app/node_modules
 AWS-terraform-nodejs/node_modules
 node_modules
+AWS-terraform-nodejs/terraform/.terraform
+AWS-terraform-nodejs/terraform/*.tfstate
+AWS-terraform-nodejs/app/node_modules
